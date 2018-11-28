@@ -5,10 +5,8 @@ package org.westos.poker;
  * @PACKAGE_NAME:org.westos.poker
  * @DESCRIPTION:TODO
  * @AUTHOR:S.H.I.E.L.D.
- * @CREATE_TIME:2018/11/28-18:31
+ * @CREATE_TIME:2018/11/28-18:36
  */
-public class Poker {
-    public static void main(String[] args) {
-        System.out.println("H");
-    }
+public class test {
+    ofjsadlkjfhdsajkfhdsa
 }
